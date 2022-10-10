@@ -38,7 +38,7 @@ def merge_sort(list) -> None:
       j+=1
       k+=1
       
-   return list 
+  return list 
 
 # Do not change the following code
 nums1 = []
