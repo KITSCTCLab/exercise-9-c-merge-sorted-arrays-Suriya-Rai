@@ -33,7 +33,7 @@ def merge_sort(list) -> None:
       i+=1
       k+=1
       
-    while j<len(right)
+    while j<len(right):
       list[k] = right[j]
       j+=1
       k+=1
